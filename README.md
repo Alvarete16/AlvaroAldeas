@@ -2,13 +2,13 @@
   "result": [
     {
       "user": "Suuk",
-      "date_limit": "06/21/2026 00:00:00",
-      "permisos": "1.queue"
+      "date_limit": "02/05/2099 00:00:00",
+      "permisos": "all"
     },
     {
-      "user": "Alcan",
-      "date_limit": "06/28/2026 00:00:00",
-      "permisos": "1.queue"
+      "user": "Alcan80",
+      "date_limit": "02/05/2099 00:00:00",
+      "permisos": "all"
     },
     {
       "user": "Bugs Bunny",
