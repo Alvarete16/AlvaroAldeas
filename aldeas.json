@@ -74,6 +74,11 @@
       "user": "3.14J",
       "date_limit": "02/05/2099 00:00:00",
       "permisos": "all" 
+    },
+    {
+      "user": "Kano",
+      "date_limit": "02/05/2099 00:00:00",
+      "permisos": "all" 
     }
   ]
 }
