@@ -89,9 +89,14 @@
       "user": "Adriacrack",
       "date_limit": "02/05/2099 00:00:00",
       "permisos": "all" 
-    }
+    },
     {
       "user": "sandre7",
+      "date_limit": "02/05/2099 00:00:00",
+      "permisos": "all" 
+    },
+    {
+      "user": "janbetus",
       "date_limit": "02/05/2099 00:00:00",
       "permisos": "all" 
     }
