@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Magia de los Looney Tunes
 // @namespace    http://tampermonkey.net/
-// @version      1.1.1
+// @version      1.1.2
 // @description  Magia de aldeas de los Looney Tunes + Herramientas de Ajustes
 // @author       -Bugs Bunny-
 // @match        https://*/*
